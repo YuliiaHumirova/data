@@ -1,6 +1,6 @@
-"Region","EconomicallyActivePopulation","EconomicallyInactivePopulation","EmployedPopulation","UnemployedPopulation","RegisteredUnemploymentOfThePopulation","TheNumberOfInformallyEmployedPopulation
+"Id","Region","EconomicallyActivePopulation","EconomicallyInactivePopulation","EmployedPopulation","UnemployedPopulation","RegisteredUnemploymentOfThePopulation","TheNumberOfInformallyEmployedPopulation
 ","NumberOfVacancies","GrossRegionalProductGRP","ConsumerPriceIndex","AverageSalary","Population","Income"
-"Vinnitsa","717.4","441.6","640.9","76.5","20.5","205.4","0.8","74411","101.3","7613","1583082","87279"
+"1","Vinnitsa","717.4","441.6","640.9","76.5","20.5","205.4","0.8","74411","101.3","7613","1583082","87279"
 "Volyn","418.1","	331.6","	366","	52.1","	9.7","	92.8","	2.2","	35744","	101.7","	7249","	1039705","	50029"
 "Dnepr","1520.1","	876.9","	1390.9","	129.2","	27.5","	201.9","	4.5","	244478","	101.5","	8247","	3230775","	229781"
 "Donetsk","859.6","	625.4","	734.3","	125.3","	13.5","	99.8","	0.7","	137500","	101.6","	9886","	4222259","	133478"
